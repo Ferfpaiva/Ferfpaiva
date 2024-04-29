@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Why here Why now! I'm so gratefull for everything!!!</h1></summary>
+    <summary><h1 style="display: inline-block">Right here Right now! I'm so gratefull for everything!!!</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -24,10 +24,7 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandodefreitaspaiva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF%2FJ4C9AmT02WrsaqN2GO7w%3D%3D)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
